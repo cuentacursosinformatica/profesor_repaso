@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler",
+  "name": "profesor-repaso",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-23",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  }
+}
