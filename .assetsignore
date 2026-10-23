@@ -1,0 +1,7 @@
+chat.py
+functions/**
+worker.js
+wrangler.jsonc
+.assetsignore
+.git/**
+.gitignore
